@@ -1,10 +1,10 @@
 # :crab: RUST PROJECT TEMPLATE - TODO(template) PUT PROJECT NAME HERE
 <!--`TODO(template) update each badge with your username and repository name.`-->
-[![Lint](https://github.com/ElusAegis/rust-template/actions/workflows/linter.yml/badge.svg)](https://github.com/ElusAegis/rust-template/actions/workflows/linter.yml)
-[![Build](https://github.com/ElusAegis/rust-template/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/ElusAegis/rust-template/actions/workflows/build-and-test.yml)
-[![Dependencies](https://github.com/ElusAegis/rust-template/actions/workflows/dependency-audit.yml/badge.svg)](https://github.com/ElusAegis/rust-template/actions/workflows/dependency-audit.yml)
-[![UB](https://github.com/ElusAegis/rust-template/actions/workflows/ub-detection.yml/badge.svg)](https://github.com/ElusAegis/rust-template/actions/workflows/ub-detection.yml)
-[![Docs](https://github.com/ElusAegis/rust-template/actions/workflows/docs.yml/badge.svg)](https://github.com/ElusAegis/rust-template/actions/workflows/docs.yml)
+[![Lint](https://github.com/NethermindEth/rust-template/actions/workflows/linter.yml/badge.svg)](https://github.com/NethermindEth/rust-template/actions/workflows/linter.yml)
+[![Build](https://github.com/NethermindEth/rust-template/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/NethermindEth/rust-template/actions/workflows/build-and-test.yml)
+[![Dependencies](https://github.com/NethermindEth/rust-template/actions/workflows/dependency-audit.yml/badge.svg)](https://github.com/NethermindEth/rust-template/actions/workflows/dependency-audit.yml)
+[![UB](https://github.com/NethermindEth/rust-template/actions/workflows/ub-detection.yml/badge.svg)](https://github.com/NethermindEth/rust-template/actions/workflows/ub-detection.yml)
+[![Docs](https://github.com/NethermindEth/rust-template/actions/workflows/docs.yml/badge.svg)](https://github.com/NethermindEth/rust-template/actions/workflows/docs.yml)
 <!-- `TODO(template)` The Docs badge above tracks the GitHub Pages docs deploy (docs.yml) --
      the default docs path for this template. It only turns GREEN once you enable GitHub
      Pages (Settings -> Pages -> Source: GitHub Actions); until then docs.yml fails on push
